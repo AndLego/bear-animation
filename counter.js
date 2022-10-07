@@ -1,6 +1,5 @@
 const bear = document.querySelectorAll(".bear");
 const reload = document.querySelector(".again");
-const confetti = document.querySelector(".confetti-container");
 
 let counter = 0;
 
